@@ -136,8 +136,8 @@ A theme spec, usable by a theme renderer.
 
 ### Related
 
-- [`uinix-theme-theme-ui-spec`][uinix-theme-theme-ui-spec]
 - [`uinix-theme`][uinix-theme]
+- [`uinix-theme-spec-theme-ui`][uinix-theme-spec-theme-ui]
 - [`uinix-ui`][uinix-ui]
 
 ### License
@@ -163,5 +163,5 @@ A theme spec, usable by a theme renderer.
 <!-- defs -->
 [ESM-only]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
 [uinix-theme]: https://github.com/uinix-js/uinix-theme
-[uinix-theme-theme-ui-spec]: https://github.com/uinix-js/uinix-theme-theme-ui-spec
+[uinix-theme-spec-theme-ui]: https://github.com/uinix-js/uinix-theme-spec-theme-ui
 [uinix-ui]: https://github.com/uinix-js/uinix-ui
