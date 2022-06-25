@@ -71,6 +71,7 @@ const theme = {
   fontFamilies: {},
   fontSizes: {},
   fontWeights: {},
+  images: {},
   keyframes: {},
   letterSpacings: {},
   lineHeights: {},
