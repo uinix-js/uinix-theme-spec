@@ -7,6 +7,8 @@
 
 The default [`uinix-theme`][uinix-theme] spec.
 
+Visit the [Theme Playground] for interactive demos.
+
 ## Contents
 
 - [Install](#install)
@@ -24,6 +26,8 @@ npm install uinix-theme-spec
 ```
 
 ## Use
+
+`uinix-theme-spec` can be used officially with [`uinix-theme`][uinix-theme] or [`uinix-ui`][uinix-ui].
 
 ```js
 import {createTheme} from 'uinix-theme';
@@ -162,6 +166,7 @@ A theme spec, usable by a theme renderer.
 
 <!-- defs -->
 [ESM-only]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
+[theme playground]: https://uinix.dev/tools/uinix-theme-playground
 [uinix-theme]: https://github.com/uinix-js/uinix-theme
 [uinix-theme-spec-theme-ui]: https://github.com/uinix-js/uinix-theme-spec-theme-ui
 [uinix-ui]: https://github.com/uinix-js/uinix-ui
